@@ -1,0 +1,27 @@
+{
+  "name": "notas_estudiantes",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000t\u0000a\u0000s\u0000_\u0000e\u0000s\u0000t\u0000u\u0000d\u0000i\u0000a\u0000n\u0000t\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSanchezx/notas_estudiantes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DiegoSanchezx/notas_estudiantes/issues"
+  },
+  "homepage": "https://github.com/DiegoSanchezx/notas_estudiantes#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
